@@ -1,2 +1,2 @@
-# Simple project on js, React and css.
+# Simple project on js, React, HTML and css.
 Personal To do list app with function to: Edit, Add new Tasks, Delete Tasks, Completed & Todo windows,...
